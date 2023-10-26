@@ -8,7 +8,7 @@ database_user = "icc_admin"
 database_password = "icc_admin_2023"
 
 # Configurable database info
-database_host = "57.128.169.26"         # default "localhost"
+database_host = "52.47.82.252"         # default "localhost"
 database_port = "5433"              # default "5432"
 migration_location = "migrations"  # default "migrations"
 
